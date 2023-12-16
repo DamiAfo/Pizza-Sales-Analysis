@@ -57,6 +57,13 @@ The analysis results are summarized as follows:
 2. The Thai Chicken Pizza contributes to maximum Revenue. The Classic Deluxe Pizza contributes to maximum Total Quantities and Total Orders.
 3. The Bree Carre Pizza contributes the least to Revenue, Quantities and Orders.
 
+![Daily trend](https://github.com/DamiAfo/Pizza-Sales-Analysis/assets/80990125/b917359c-7184-42d8-85da-10f358cbec37)
+
+
+![Monthly trend](https://github.com/DamiAfo/Pizza-Sales-Analysis/assets/80990125/854d8fd8-9386-4e52-8fdb-303f41ef5ad7)
+
+
+
 ### Recommendation
 
 Based on the analysis, we recommend the following action:
