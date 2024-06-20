@@ -72,12 +72,21 @@ ORDER BY pizza_size
 The analysis results are summarized as follows:
 1. For the daily trend, orders are highest on Fridays and Thursdays. For the monthly trend, maximum orders were recorded in July and May. Classic pizza category contributed to maximum sales and total order. Large size pizza contributed to maximum sales.
 2. The Thai Chicken Pizza contributes to maximum Revenue. The Classic Deluxe Pizza contributes to maximum Total Quantities and Total Orders.
-3. The Bree Carre Pizza contributes the least to Revenue, Quantities and Orders.
+3. The Bree Carre Pizza contributes the least to Revenue, Quantities and Total Orders.
+4. To check for the best and worst sellers, please refer to the vizualisation after the images provided.
 
 ![Daily trend](https://github.com/DamiAfo/Pizza-Sales-Analysis/assets/80990125/b917359c-7184-42d8-85da-10f358cbec37)
 
 
 ![Monthly trend](https://github.com/DamiAfo/Pizza-Sales-Analysis/assets/80990125/854d8fd8-9386-4e52-8fdb-303f41ef5ad7)
+
+
+![Sales By Pizza Category](https://github.com/DamiAfo/Pizza-Sales-Analysis/blob/main/%25Sales%20by%20Pizza%20Category.png)
+
+
+![Sales By Pizza Size](https://github.com/DamiAfo/Pizza-Sales-Analysis/blob/main/%25Sales%20by%20Pizza%20Size.png)
+
+You can interact with the vizualisation [here](https://app.powerbi.com/groups/me/reports/21733948-814c-4860-9288-c94430449572?experience=power-bi)
 
 
 
